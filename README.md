@@ -34,7 +34,7 @@ Siga os passos abaixo para executar os testes unitários:
 
 1. **Clone o repositório** (caso ainda não tenha o projeto localmente):
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/jandersonj/biblioteca-tests.git
 
 1. **Navegue até o diretório do projeto:**
    ```bash 
